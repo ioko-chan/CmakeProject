@@ -3,3 +3,9 @@ C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/CMakeFiles/reb
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/CMakeProject1/CMakeFiles/CMakeProject1.dir
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/CMakeProject1/CMakeFiles/edit_cache.dir
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/CMakeProject1/CMakeFiles/rebuild_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/CMakeFiles/edit_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/edit_cache.dir

@@ -4,5 +4,5 @@
 #pragma once
 
 #include <iostream>
-
+#include <GLFW/glfw3.h>
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
