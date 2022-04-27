@@ -34,7 +34,13 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 15,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 11,
 				"parent" : 0
 			}
 		]
@@ -53,6 +59,10 @@
 				{
 					"backtrace" : 2,
 					"path" : "C:/Users/Ekoterina/source/repos/CMakeProject1/external/glfw/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Ekoterina/source/repos/CMakeProject1/external/glad/include"
 				}
 			],
 			"language" : "CXX",
@@ -67,6 +77,10 @@
 		{
 			"backtrace" : 2,
 			"id" : "glfw::@ca12bac854c2ac6b2230"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glad::@55512df44c152ef9a2ca"
 		}
 	],
 	"id" : "CMakeProject1::@327dbd380d3205a35d1a",
@@ -85,6 +99,11 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "external\\glfw\\src\\glfw3.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "external\\glad\\glad.lib",
 				"role" : "libraries"
 			},
 			{

@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						2
+						2,
+						4
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -61,8 +62,23 @@
 					"source" : "external/glfw/src",
 					"targetIndexes" : 
 					[
-						1,
-						2
+						2,
+						3
+					]
+				},
+				{
+					"build" : "external/glad",
+					"jsonFile" : "directory-external.glad-Debug-fe552af5a86a4942293e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "external/glad",
+					"targetIndexes" : 
+					[
+						1
 					]
 				}
 			],
@@ -72,7 +88,8 @@
 				{
 					"childIndexes" : 
 					[
-						1
+						1,
+						2
 					],
 					"directoryIndexes" : 
 					[
@@ -95,8 +112,20 @@
 					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
-						1,
-						2
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Glad",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
 					]
 				}
 			],
@@ -105,9 +134,16 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "CMakeProject1::@327dbd380d3205a35d1a",
-					"jsonFile" : "target-CMakeProject1-Debug-eb11ca006893c68b1e53.json",
+					"jsonFile" : "target-CMakeProject1-Debug-5b009543b3d289dc2702.json",
 					"name" : "CMakeProject1",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "glad::@55512df44c152ef9a2ca",
+					"jsonFile" : "target-glad-Debug-1ffb66575d407f397518.json",
+					"name" : "glad",
+					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 3,

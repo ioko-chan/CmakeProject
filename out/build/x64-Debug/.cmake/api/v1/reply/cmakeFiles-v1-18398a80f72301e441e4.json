@@ -199,6 +199,9 @@
 		},
 		{
 			"path" : "external/glfw/CMake/glfw3.pc.in"
+		},
+		{
+			"path" : "external/glad/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

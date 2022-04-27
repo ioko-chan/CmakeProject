@@ -9,3 +9,6 @@ C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/glfw.dir
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/update_mappings.dir
 C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glad/CMakeFiles/glad.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glad/CMakeFiles/edit_cache.dir
+C:/Users/Ekoterina/source/repos/CMakeProject1/out/build/x64-Debug/external/glad/CMakeFiles/rebuild_cache.dir
